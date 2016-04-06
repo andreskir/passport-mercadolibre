@@ -6,7 +6,7 @@ Learn more about MercadoLibre OAuth schema [here](http://developers.mercadolibre
 
 ## Installation
 
-    $ npm install passport-mercadolibre
+    $ npm install passport-mercadolibre-2
 
 #### WARNING
 
