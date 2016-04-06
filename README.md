@@ -109,10 +109,6 @@ But you can get more information (a lot more!) accessing the raw user profile as
 - \_json _--> JSON object with server response_
 
 
-> **Note:** Please notice that the module internally sets up the HTTPS module for using SSL v3 as shown below:
->
-> `https.globalAgent.options.secureProtocol = 'SSLv3_method';`
-
 ## License
 
 [The MIT License](http://opensource.org/licenses/MIT)
