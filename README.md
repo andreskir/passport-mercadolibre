@@ -6,7 +6,7 @@ Learn more about MercadoLibre OAuth schema [here](http://developers.mercadolibre
 
 ## Installation
 
-    $ npm install passport-mercadolibre
+    $ npm install passport-mercadolibre-2
 
 #### WARNING
 
@@ -108,10 +108,6 @@ But you can get more information (a lot more!) accessing the raw user profile as
 - \_raw  _--> raw server response_
 - \_json _--> JSON object with server response_
 
-
-> **Note:** Please notice that the module internally sets up the HTTPS module for using SSL v3 as shown below:
->
-> `https.globalAgent.options.secureProtocol = 'SSLv3_method';`
 
 ## License
 
